@@ -7,7 +7,7 @@
 //
 
 #import "ZYViewController.h"
-
+#import <NSArray+Wgarray.h>
 @interface ZYViewController ()
 
 @end

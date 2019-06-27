@@ -13,14 +13,11 @@
 		3FACD94D978D4A603740088300C2D89C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		624420D408A6EA2C40617AA12F4F7558 /* ZYCategory01-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6814F60ED1CD9D6D639058BAF3A6CDF4 /* ZYCategory01-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		81A92463A822185A2142E15BE205FFE4 /* Pods-ZYCategory01_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 741CD309654A7EBEB1C9B9A5626C7781 /* Pods-ZYCategory01_Tests-dummy.m */; };
-		85519E323DB26956F3396FD41DE75AFA /* UIAlertController+HuAlert.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B20946A6D51B8B19E831F18C02FF79C /* UIAlertController+HuAlert.m */; };
 		B6355B3ADFA13BC387AAFEA89DB5B9EB /* NSArray+Wgarray.h in Headers */ = {isa = PBXBuildFile; fileRef = B744DC288B3E5DCC962852BFDB16AF45 /* NSArray+Wgarray.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B91F1621A5EF766FCFFF8504617B7E2C /* ZYCategory01-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D6AE50B82E1DD77FB3BB2C7ECA23C285 /* ZYCategory01-dummy.m */; };
 		C36518C12999771C3C49B5EC24BB6D85 /* NSString+HUString.m in Sources */ = {isa = PBXBuildFile; fileRef = A2243057ACF3A244E46E4AAE56A5FDCF /* NSString+HUString.m */; };
 		C461B11E40E25110B06719359677F9DE /* NSArray+Wgarray.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FFDFBF4544FC1D53585E4121D803D0A /* NSArray+Wgarray.m */; };
 		C8B96BDB2AA34E9E69E456C8CBB6AE82 /* Pods-ZYCategory01_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F3FD585B804C4720D522DE473BEE04F7 /* Pods-ZYCategory01_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D989FC58321FD5C2823F0922DA0CFAE7 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = F2C9B0ADBB29153EFA160F320D8AD2AB /* ReplaceMe.m */; };
-		DAED0B8DEFC190ED7A57AC17AD183A86 /* UIAlertController+HuAlert.h in Headers */ = {isa = PBXBuildFile; fileRef = 4D80B94F967B2B7C130778EE78A2185C /* UIAlertController+HuAlert.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E69300E2B225268F9FD451DFD1D4AE7D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		F3FD90446128962647FE54C2F335F773 /* Pods-ZYCategory01_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B7C32CDB9F94EE016EC814CACBE26DEF /* Pods-ZYCategory01_Example-dummy.m */; };
 /* End PBXBuildFile section */
@@ -47,14 +44,12 @@
 		18CC1D789C3E68AF61C9058AC1C690F9 /* Pods-ZYCategory01_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ZYCategory01_Example-frameworks.sh"; sourceTree = "<group>"; };
 		1987F45D89EF46E4163B007FA49523D5 /* Pods_ZYCategory01_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZYCategory01_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A4182411B48EA8B8CB22D4A1582C1CD /* Pods-ZYCategory01_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ZYCategory01_Tests.modulemap"; sourceTree = "<group>"; };
-		1B20946A6D51B8B19E831F18C02FF79C /* UIAlertController+HuAlert.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIAlertController+HuAlert.m"; sourceTree = "<group>"; };
 		2391EEC027762C5A85FEAF14A47250BB /* ZYCategory01-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZYCategory01-prefix.pch"; sourceTree = "<group>"; };
 		2693F4984A759CAAAAC961EB6205E442 /* Pods-ZYCategory01_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZYCategory01_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		2B7903FABD02E2EEC39D9D897BA6353F /* ZYCategory01.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ZYCategory01.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		2B8A3DBA3B1DC12F11FB157184EBD38A /* Pods-ZYCategory01_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZYCategory01_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		408B2A5DFFF5E4135C349A4F98F0FD3D /* ZYCategory01.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZYCategory01.xcconfig; sourceTree = "<group>"; };
-		4D80B94F967B2B7C130778EE78A2185C /* UIAlertController+HuAlert.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIAlertController+HuAlert.h"; sourceTree = "<group>"; };
 		5D55212807071E787E2A702FA21AC0EA /* Pods-ZYCategory01_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZYCategory01_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		5E33370F371657ECA07BFCC1E63FB3BB /* Pods-ZYCategory01_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZYCategory01_Example-Info.plist"; sourceTree = "<group>"; };
 		5FFDFBF4544FC1D53585E4121D803D0A /* NSArray+Wgarray.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Wgarray.m"; sourceTree = "<group>"; };
@@ -79,7 +74,6 @@
 		D9608FEDC5C7AA7DCA0F6755AF973BE9 /* Pods-ZYCategory01_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZYCategory01_Example.release.xcconfig"; sourceTree = "<group>"; };
 		E0CC27CB68C2552ABF5617031B792BE5 /* Pods_ZYCategory01_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZYCategory01_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E49CA6C4D77326D83534A637A758F551 /* Pods-ZYCategory01_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZYCategory01_Example-umbrella.h"; sourceTree = "<group>"; };
-		F2C9B0ADBB29153EFA160F320D8AD2AB /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = ZYCategory01/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		F3FD585B804C4720D522DE473BEE04F7 /* Pods-ZYCategory01_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZYCategory01_Tests-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -131,7 +125,6 @@
 		541C7B697D226DE844D5E68D2D6B46CD /* ZYCategory01 */ = {
 			isa = PBXGroup;
 			children = (
-				F2C9B0ADBB29153EFA160F320D8AD2AB /* ReplaceMe.m */,
 				A31E4209A0870DB2DE27B226E0441D52 /* categoryFile */,
 				553A69C5AD07A1B913C3E5954786D077 /* Pod */,
 				EB8D6BDE9156CB5A4FEE574EA856DA0F /* Support Files */,
@@ -191,8 +184,6 @@
 				5FFDFBF4544FC1D53585E4121D803D0A /* NSArray+Wgarray.m */,
 				C3A0350ADC8AC09DDD943B16789B5A6D /* NSString+HUString.h */,
 				A2243057ACF3A244E46E4AAE56A5FDCF /* NSString+HUString.m */,
-				4D80B94F967B2B7C130778EE78A2185C /* UIAlertController+HuAlert.h */,
-				1B20946A6D51B8B19E831F18C02FF79C /* UIAlertController+HuAlert.m */,
 			);
 			name = categoryFile;
 			path = ZYCategory01/Classes/categoryFile;
@@ -273,7 +264,6 @@
 			files = (
 				B6355B3ADFA13BC387AAFEA89DB5B9EB /* NSArray+Wgarray.h in Headers */,
 				06D9F6297F886637C6DD4950EDE45166 /* NSString+HUString.h in Headers */,
-				DAED0B8DEFC190ED7A57AC17AD183A86 /* UIAlertController+HuAlert.h in Headers */,
 				624420D408A6EA2C40617AA12F4F7558 /* ZYCategory01-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -396,8 +386,6 @@
 			files = (
 				C461B11E40E25110B06719359677F9DE /* NSArray+Wgarray.m in Sources */,
 				C36518C12999771C3C49B5EC24BB6D85 /* NSString+HUString.m in Sources */,
-				D989FC58321FD5C2823F0922DA0CFAE7 /* ReplaceMe.m in Sources */,
-				85519E323DB26956F3396FD41DE75AFA /* UIAlertController+HuAlert.m in Sources */,
 				B91F1621A5EF766FCFFF8504617B7E2C /* ZYCategory01-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
