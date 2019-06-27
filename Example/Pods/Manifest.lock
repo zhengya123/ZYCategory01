@@ -1,0 +1,16 @@
+PODS:
+  - ZYCategory01 (0.1.0)
+
+DEPENDENCIES:
+  - ZYCategory01 (from `../`)
+
+EXTERNAL SOURCES:
+  ZYCategory01:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZYCategory01: 6659dc46ec3e2dec58adb8491a314198100e93e2
+
+PODFILE CHECKSUM: d607e5dc92ffc2b32716c3eeb75244a59d4c1ed9
+
+COCOAPODS: 1.7.2

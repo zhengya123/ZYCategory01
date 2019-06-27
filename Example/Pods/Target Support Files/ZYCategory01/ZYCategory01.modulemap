@@ -1,0 +1,6 @@
+framework module ZYCategory01 {
+  umbrella header "ZYCategory01-umbrella.h"
+
+  export *
+  module * { export * }
+}
